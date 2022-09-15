@@ -15,11 +15,11 @@ My current EFI folder for Mac OS 12.6 and is mostly working (see ## [issues](htt
 |------------------------|
 
 ## Issues
-[ ] - Bluetooth - BCM_4350C2 (Insignia USB Dongle)
-[X] - DRM 
-[x] - VGA Decorder
-[X] - HW Accleation
-[x] - iServices (Ful
+- [ ] Bluetooth - BCM_4350C2 (Insignia USB Dongle)
+- [X] - DRM 
+- [x] - VGA Decorder
+- [X] - HW Accleation
+- [x] - iServices (Ful
 
 
 ## Resocurses 
