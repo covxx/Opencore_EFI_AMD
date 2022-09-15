@@ -2,7 +2,7 @@
 This version of EFI allowed me to install Mac OS 12.6 with open core v0.8.4. This took a few days to get working and I highly recommend following [dortania's](https://dortania.github.io/OpenCore-Install-Guide/) guide completly before trying this folder. Mac OS is fully functional besides my bluetooth USB (Broadcom) not working. OS is stable, left on for 12+ hours with no error/crashes but YMMV. iServices,DRM, and HW acceleration are also working.
 
 Note: Opencore debug is on while apple debug/verbose is off.
-
+![opencorewow](https://i.ibb.co/VVqDjwX/SCR-20220915-iaw.jpg)
 ## Specifications
 
 | OPENCORE VERSION 0.8.4 |
