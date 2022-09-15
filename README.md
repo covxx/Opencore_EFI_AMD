@@ -30,12 +30,13 @@ Note: Opencore debug is on while apple debug/verbose is off.
 - [X] - HW Acceleration
 - [x] - iServices (Fully Working)
 - [x] - en0 shown as bulit in
+- [x] - USB Ports Mapped 
 
 
 ## Resources
 - [Dortania's Guide](https://dortania.github.io/OpenCore-Install-Guide/)
 - [Opencore](https://github.com/acidanthera/OpenCorePkg)
-- [HackinTool]()
-- [ProperTree]()
-- [MountEFI]()
-- [USBMap]()
+- [HackinTool](https://github.com/headkaze/Hackintool)
+- [ProperTree](https://github.com/corpnewt/ProperTree)
+- [MountEFI](https://github.com/corpnewt/MountEFI)
+- [USBMap](https://github.com/corpnewt/USBMap)
