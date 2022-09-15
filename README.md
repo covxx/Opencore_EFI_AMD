@@ -16,6 +16,9 @@ Note: Opencore debug is on while apple debug/verbose is off.
 | Bios Ver.   | Beta 4.31 - 06/06/2022           |
 | Ethernet    | RealtekRTL8111                   |
 
+## Performance
+[geekbench](https://ibb.co/9sgRVmr)
+
 
 ## Issues
 - [ ] - Bluetooth - BCM_4350C2 (Insignia USB Dongle)
