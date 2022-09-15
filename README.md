@@ -2,7 +2,10 @@
 My current EFI folder for Mac OS 12.6 and is mostly working (see [issues](https://github.com/covxx/Opencore_EFI_AMD#issues) ).
 This took a few days to get working, from re-doing config.plist to recreating USBs, I may create a guide eventualy for AMD.
 
-## Specification
+## Specifications
+
+| OPENCORE VERSION 0.8.4 |
+|------------------------|
 
 | Component   | Model                            |
 |-------------|----------------------------------|
@@ -12,8 +15,6 @@ This took a few days to get working, from re-doing config.plist to recreating US
 | Bios Ver.   | Beta 4.31 - 06/06/2022           |
 | Ethernet    | RealtekRTL8111                   |
 
-| OPENCORE VERSION 0.8.4 |
-|------------------------|
 
 ## Issues
 - [ ] - Bluetooth - BCM_4350C2 (Insignia USB Dongle)
