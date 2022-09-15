@@ -3,7 +3,7 @@ This version of EFI allowed me to install Mac OS 12.6 with open core v0.8.4. Thi
 
 Note: Opencore debug is on while apple debug/verbose is off.
 
--![opencorewow](https://i.ibb.co/VVqDjwX/SCR-20220915-iaw.jpg)
+![opencorewow](https://i.ibb.co/VVqDjwX/SCR-20220915-iaw.jpg)
 
 ## Specifications
 
