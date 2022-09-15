@@ -24,7 +24,7 @@ Note: Opencore debug is on while apple debug/verbose is off.
 
 
 ## Issues
-- [ ] #1
+- [ ] https://github.com/covxx/Opencore_EFI_Ryzen_iMP/issues/1
 - [X] - DRM 
 - [x] - VGA Decorder
 - [X] - HW Acceleration
