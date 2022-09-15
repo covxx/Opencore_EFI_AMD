@@ -24,7 +24,7 @@ Note: Opencore debug is on while apple debug/verbose is off.
 
 
 ## Issues
-- [ ] - Bluetooth - BCM_4350C2 (Insignia USB Dongle)
+- [ ] #1
 - [X] - DRM 
 - [x] - VGA Decorder
 - [X] - HW Acceleration
