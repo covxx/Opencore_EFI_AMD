@@ -1,6 +1,6 @@
 # Opencore 0.8.4 EFI For Ryzen Hackintosh
 My current EFI folder for Mac OS 12.6 and is mostly working (see [issues](https://github.com/covxx/Opencore_EFI_AMD#issues) ).
-This took a few days to get working, from re-doing config.plist to recreating USBs, I may create a guide eventualy for AMD.
+This took a few days to get working, from re-doing config.plist to recreating USBs, I may create a guide eventualy for AMD. 
 
 ## Specifications
 
@@ -20,12 +20,12 @@ This took a few days to get working, from re-doing config.plist to recreating US
 - [ ] - Bluetooth - BCM_4350C2 (Insignia USB Dongle)
 - [X] - DRM 
 - [x] - VGA Decorder
-- [X] - HW Accleation
+- [X] - HW Acceleration
 - [x] - iServices (Fully Working)
 - [x] - en0 shown as bulit in
 
 
-## Resocurses 
+## Resources 
 - [Opencore](https://github.com/acidanthera/OpenCorePkg)
 - [HackinTool]()
 - [ProperTree]()
