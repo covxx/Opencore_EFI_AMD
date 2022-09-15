@@ -16,6 +16,7 @@ Note: Opencore debug is on while apple debug/verbose is off.
 | GPU         | MSI RX580 Armor MK2 8GB OC       |
 | Motherboard | AsRock Steel Legend B450M        |
 | Bios Ver.   | Beta 4.31 - 06/06/2022           |
+| SMBIOS Ver. | iMacPro1,1                       |
 | Ethernet    | RealtekRTL8111                   |
 
 ## Performance
