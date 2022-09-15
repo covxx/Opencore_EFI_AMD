@@ -17,7 +17,7 @@ Note: Opencore debug is on while apple debug/verbose is off.
 | Ethernet    | RealtekRTL8111                   |
 
 ## Performance
-![geekbench](https://ibb.co/9sgRVmr)
+![geekbench]((https://i.ibb.co/Ch8xMpH/GB-Scores-SS.png)
 
 
 ## Issues
