@@ -21,12 +21,12 @@ This took a few days to get working, from re-doing config.plist to recreating US
 - [x] - VGA Decorder
 - [X] - HW Accleation
 - [x] - iServices (Fully Working)
-- [ ] - en0 shown as bulit in
+- [x] - en0 shown as bulit in
 
 
 ## Resocurses 
-[Opencore](https://github.com/acidanthera/OpenCorePkg)
-[HackinTool]()
-[ProperTree]()
-[MountEFI]()
-[USBMap]()
+- [Opencore](https://github.com/acidanthera/OpenCorePkg)
+- [HackinTool]()
+- [ProperTree]()
+- [MountEFI]()
+- [USBMap]()
