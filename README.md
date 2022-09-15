@@ -1,6 +1,7 @@
 # Opencore 0.8.4 EFI For Ryzen Hackintosh
-My current EFI folder for Mac OS 12.6 and is mostly working (see [issues](https://github.com/covxx/Opencore_EFI_AMD#issues) ).
-This took a few days to get working, from re-doing config.plist to recreating USBs, I may create a guide eventualy for AMD. 
+This version of EFI allowed me to install Mac OS 12.6 with open core v0.8.4. This took a few days to get working and I highly recommend following [dortania's](https://dortania.github.io/OpenCore-Install-Guide/) guide completly before trying this folder. Mac OS is fully functional besides my bluetooth USB (Broadcom) not working. OS is stable, left on for 12+ hours with no error/crashes but YMMV. iServices,DRM, and HW acceleration are also working.
+
+Note: Opencore debug is on while apple debug/verbose is off.
 
 ## Specifications
 
@@ -25,7 +26,8 @@ This took a few days to get working, from re-doing config.plist to recreating US
 - [x] - en0 shown as bulit in
 
 
-## Resources 
+## Resources
+- [Dortania's Guide](https://dortania.github.io/OpenCore-Install-Guide/)
 - [Opencore](https://github.com/acidanthera/OpenCorePkg)
 - [HackinTool]()
 - [ProperTree]()
